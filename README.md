@@ -5,7 +5,7 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](
 # GraphCMS Blog
 ### [Live Site](https://graph-ql-graph-cms-react-blog.vercel.app/)
 
-![GraphCMS Blog](https://github.com/Timur0895/Portfolio-Website/blob/master/public/images/screenshoot.png)
+![GraphCMS Blog](https://github.com/Timur0895/GraphQL_GraphCMS_React_Blog/blob/main/public/image.jpg)
 
 
 ## Introduction
